@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace project_01_0327
 {
-    internal class Program
+    internal class Program01
     {
         class LinkedListNode                //노드이다. 첫번째 노드가 나머지 노드들을 연결한다.
         {
